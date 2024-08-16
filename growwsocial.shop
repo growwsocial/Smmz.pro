@@ -1,0 +1,47 @@
+ body {
+    background-color: #07041c;
+    color: white;
+}
+
+.feedback {
+    background-color: blue;
+    color: #0f0;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+.footer {
+    background-color: #4fa7b7;
+    color: black;
+    width: 100%;
+    padding: 20px;
+}
+h1 {
+    color: black;
+}
+
+.text_blue {
+    color: blue;
+}
+.title.margin-title {
+    color: #4fa7b7;
+}
+
+.title {
+    color: #4fa7b7;
+}
+
+.btn.btn__blue.mt15.top-btn {
+    background-color: #4fa7b7;
+    color: white; /* Text color inside the button */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btnn.red__button.red__button1 {
+    background-color: #4fa7b7;
+}
+.btn.btn__blue.btn__blue1 {
+    background-color: #4fa7b7;
+}
